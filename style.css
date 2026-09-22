@@ -1,6 +1,18 @@
 body {
     font-family: Arial, sans-serif;
-    background-color: #f0f0f0;
+    background-color: #110c0c;
     text-align: center;
     padding-top: 50px;
+}h1 {
+    color: hsl(162, 33%, 94%); /* белый */
 }
+h2 {
+    color: #3d00cc; /* синий */
+}
+p {
+    color: #f7f4f4;
+}
+h1 {
+    color: hsl(162, 33%, 94%); /* белый */
+}
+    
